@@ -1,0 +1,18 @@
+{
+    "name": "comkit/admin",
+	"description": "A short description of what your package does",
+    "autoload": {
+        "psr-4": {
+            "Comkit\\Admin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "futurum6",
+            "email": "futurum6@gmail.com"
+        }
+    ],
+	"require": {
+        "php": ">=7.3"
+    }
+}
